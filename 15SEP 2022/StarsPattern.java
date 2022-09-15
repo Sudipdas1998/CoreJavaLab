@@ -1,6 +1,5 @@
 /*
-println(new line)
-print(no new line) 
+program: Star Pattern
 @author: Sudip Das
 @date 15 sep 2022
 */
