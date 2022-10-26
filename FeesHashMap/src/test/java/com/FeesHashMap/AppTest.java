@@ -1,4 +1,4 @@
-package com.EmployManagementSystem;
+package com.FeesHashMap;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
